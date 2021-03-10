@@ -22,5 +22,7 @@
 	<button>로그인</button>
 	<button type="reset">취소</button>
 </form>
+<a href="https://kauth.kakao.com/oauth/authorize?response_type=code&client_id=9402e632c15c1f21f37a5270095fc905&redirect_uri=http://localhost/bank/callback">카카오 로그인</a>
+<a href=""></a>
 </body>
 </html>
